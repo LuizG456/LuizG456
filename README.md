@@ -6,6 +6,8 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 **Você pode entrar em contato comigo 📫**
+
 alurastartestudante@email.com
 
 @alurastartestudante
+![]([link](https://media1.tenor.com/m/eRT6C5qGWdkAAAAC/kendrick-lamar-music-listening-kdot-listening.gif))
