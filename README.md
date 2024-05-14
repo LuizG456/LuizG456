@@ -2,7 +2,7 @@
 
 Meu nome é Luiz Gabriel Martins
 
-[https://media1.tenor.com/m/eRT6C5qGWdkAAAAC/kendrick-lamar-music-listening-kdot-listening.gif]
+![https://media1.tenor.com/m/eRT6C5qGWdkAAAAC/kendrick-lamar-music-listening-kdot-listening.gif]
 
 Estou estudando na Alura.
 Estou me desenvolvendo na linguagem JavaScript
